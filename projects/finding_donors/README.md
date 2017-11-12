@@ -2,6 +2,9 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+### Python Verison
+`Python 2.7.14 :: Anaconda, Inc.`
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
