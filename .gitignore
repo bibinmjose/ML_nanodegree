@@ -63,3 +63,6 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# ignore this copy
+./projects/finding_donors/finding_donors-Copy1.ipynb
